@@ -57,13 +57,6 @@ p {
   margin-top: 5px;
 }
 
-#background:after,
-#fun_stuff:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 #end {
   text-align: center;
 }
